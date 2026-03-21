@@ -9,7 +9,7 @@ This project covers the use of time series analysis techniques to identify trend
 
 ## Objectives
 - Analyze housing price trends across European countries
-- Apply time series analysis techniques to extract meaninful patterns
+- Apply time series analysis techniques to extract meaningful patterns
 - Create reusable code to apply visualizations and forecasting to any country in the dataset
 - Evaluate model suitability under limited data conditions
 - Generate insights relevant to macroeconomic and financial analysis
@@ -38,16 +38,16 @@ This project covers the use of time series analysis techniques to identify trend
 - Compared growth patterns across countries
 - Identified variability and potential outliers
 ### 3. Trend Estimation
-- Applied Linear Regression and Rolling Average visualize long-term trend for Finland
+- Applied Linear Regression and Rolling Average to visualize long-term trend for Finland
 - Selected these methods due to limited number of observations (~12 per country)
 - Avoided overfitting associated with more complex models
 ### 4. Forecasting
-- Used Double Exponential Smoothing to predict future trends for Finland
+- Used Double Exponential Smoothing to predict future price index values for Finland
 - Performed cross-validation to select appropriate parameters for forecasting model
 - Compared results to actual data to acknowledge limitations in forecasting accuracy
 ### 5. Correlation Mapping
 - Considered limitations in forecasting based solely on previous price index values 
-- Visualized correlations between price index and other values in dataset
+- Visualized correlations between price index and other variables in dataset
 - Uncovered meaningful insights about possible predictors of housing prices
 
 ## Key Visualizations
