@@ -5,6 +5,8 @@
 ## Overview
 This project covers the use of time series analysis techniques to identify trends and extract insights from European housing price index data. The goal of this project was to explore how housing prices evolve over time across different countries, and apply appropriate analytical models given the constraints of limited data.
 
+---
+
 ![Price index for lowest 10 countries across sample period](https://raw.githubusercontent.com/bchafe/european-housing-time-series-analysis/refs/heads/main/images/europe-lowest-prices.png)
 
 ## Objectives
